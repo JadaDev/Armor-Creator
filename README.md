@@ -1,3 +1,6 @@
+
+#  Art Maker - README
+
 Latest Version is on Github and does support 8.X MySQL Version
 Version on official website supports 5.7.x or lower MySQL Version
 
