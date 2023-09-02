@@ -1,4 +1,7 @@
-Check our Website for latest versions : https://ac.jadadev.com
+Latest Version is on Github and does support 8.X MySQL Version
+Version on official website supports 5.7.x or lower MySQL Version
+
+![Armor Creator]([https://github.com/JadaDev/ArtMaker/blob/main/ToolArtMakerSS.png?raw=true](https://github.com/JadaDev/Armor-Creator/blob/master/ArmorCreator.png))
 
 Create your world of warcraft item in few seconds! 
 
