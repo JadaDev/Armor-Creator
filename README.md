@@ -49,3 +49,5 @@ Credits :
 JadaDev : Coding everything related to the application.
 DarkSoke : UI Design.
 Tok124 : Online Finder.
+
+Download Link : https://shop.jadadev.com/product?id=25
